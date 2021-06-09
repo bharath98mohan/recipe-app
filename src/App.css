@@ -30,6 +30,7 @@ h1 {
   border:none;
   padding: 10px 20px;
   color: white;
+  cursor: pointer;
 }
 
 .recipes {
